@@ -12,6 +12,8 @@
 - Database:
      - Neo4j
      - MySQL
+- Dataset:
+     - https://github.com/kajweb/dict
 
 ## Overview:
 1. Welcome
@@ -20,11 +22,15 @@
    ![welcome_page](page_overview/page_main.png)
 3. graph
    ![welcome_page](page_overview/page_graph.png)
-4. manager
+4. graph of CET4 Vocabulary
+   ![welcome_page](page_overview/graph_whole.png)
+5. graph in expolre mode
+   ![welcome_page](page_overview/mode_explore1.png)
+6. manager
    ![welcome_page](page_overview/page_manager.png)
-5. search
+7. search
     ![welcome_page](page_overview/page_search.png)
-6. register / login
+8. register / login
     ![welcome_page](page_overview/page_register.png)
 
 
