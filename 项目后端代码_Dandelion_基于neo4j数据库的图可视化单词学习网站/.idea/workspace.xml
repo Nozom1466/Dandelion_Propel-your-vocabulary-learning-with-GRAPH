@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed10743a-dd6a-485d-ad82-1ac72bb2a81f" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2QYpeYHSB3Kn3eOUNjdOHkcfuLD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/nodejs/node_global/node_modules/vue-cli&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2a9c17116f3d2f821c0f99e88d7cbb6e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\同济大学资料\Web技术\期末大作业\neo4j-English\src\main\resources\maiji\neo4jEnglish\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maiji.neo4jEnglish.pojo" />
+      <recent name="maiji.neo4jEnglish.interceptor" />
+      <recent name="maiji.neo4jEnglish.utils" />
+      <recent name="maiji.neo4jEnglish.exception" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Neo4jEnglishApplication">
+    <configuration name="Neo4jEnglishApplicationTests.EdgeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neo4j-English" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maiji.neo4jEnglish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maiji.neo4jEnglish" />
+      <option name="MAIN_CLASS_NAME" value="maiji.neo4jEnglish.Neo4jEnglishApplicationTests" />
+      <option name="METHOD_NAME" value="EdgeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4jEnglishApplicationTests.MD5_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neo4j-English" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maiji.neo4jEnglish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maiji.neo4jEnglish" />
+      <option name="MAIN_CLASS_NAME" value="maiji.neo4jEnglish.Neo4jEnglishApplicationTests" />
+      <option name="METHOD_NAME" value="MD5_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4jEnglishApplicationTests.deleteAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neo4j-English" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maiji.neo4jEnglish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maiji.neo4jEnglish" />
+      <option name="MAIN_CLASS_NAME" value="maiji.neo4jEnglish.Neo4jEnglishApplicationTests" />
+      <option name="METHOD_NAME" value="deleteAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4jEnglishApplicationTests.relationship" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neo4j-English" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maiji.neo4jEnglish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maiji.neo4jEnglish" />
+      <option name="MAIN_CLASS_NAME" value="maiji.neo4jEnglish.Neo4jEnglishApplicationTests" />
+      <option name="METHOD_NAME" value="relationship" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4jEnglishApplicationTests.testCreateWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="neo4j-English" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maiji.neo4jEnglish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maiji.neo4jEnglish" />
+      <option name="MAIN_CLASS_NAME" value="maiji.neo4jEnglish.Neo4jEnglishApplicationTests" />
+      <option name="METHOD_NAME" value="testCreateWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4jEnglishApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="neo4j-English" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="maiji.neo4jEnglish.Neo4jEnglishApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Neo4jEnglishApplicationTests.MD5_Test" />
+        <item itemvalue="JUnit.Neo4jEnglishApplicationTests.deleteAll" />
+        <item itemvalue="JUnit.Neo4jEnglishApplicationTests.EdgeTest" />
+        <item itemvalue="JUnit.Neo4jEnglishApplicationTests.relationship" />
+        <item itemvalue="JUnit.Neo4jEnglishApplicationTests.testCreateWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ed10743a-dd6a-485d-ad82-1ac72bb2a81f" name="变更" comment="" />
+      <created>1685540468766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685540468766</updated>
+      <workItem from="1685540470518" duration="13000" />
+      <workItem from="1685540589489" duration="10066000" />
+      <workItem from="1685584933913" duration="40039000" />
+      <workItem from="1685664619171" duration="6263000" />
+      <workItem from="1685716805329" duration="1187000" />
+      <workItem from="1685718367422" duration="3257000" />
+      <workItem from="1685780833187" duration="62000" />
+      <workItem from="1685796744313" duration="74000" />
+      <workItem from="1685797313676" duration="1122000" />
+      <workItem from="1686268909642" duration="4792000" />
+      <workItem from="1686463523278" duration="13306000" />
+      <workItem from="1686673466717" duration="837000" />
+      <workItem from="1687327420639" duration="18207000" />
+      <workItem from="1687367264390" duration="3116000" />
+      <workItem from="1687441938525" duration="7665000" />
+      <workItem from="1687455287081" duration="631000" />
+      <workItem from="1687491586103" duration="2880000" />
+      <workItem from="1687522831366" duration="2045000" />
+      <workItem from="1687780538436" duration="1707000" />
+      <workItem from="1687846346738" duration="6363000" />
+      <workItem from="1687929804959" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

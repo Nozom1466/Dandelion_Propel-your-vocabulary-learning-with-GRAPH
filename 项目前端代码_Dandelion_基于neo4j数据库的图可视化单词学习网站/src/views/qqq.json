@@ -1,0 +1,44 @@
+{
+  "data": {
+    "nodes": [
+      {
+        "label": "abrominate",
+        "value": 2,
+        "id": 3779,
+        "info": "info of node 1"
+      },
+      {
+        "label": "abhor",
+        "value": 4,
+        "id": 3780,
+        "info": "info of node 2"
+      },
+      {
+        "label": "accolade",
+        "value": 6,
+        "id": 3781,
+        "info": "info of node 3"
+      },
+      {
+        "label": "accede",
+        "value": 8,
+        "id": 3782,
+        "info": "info of node 4"
+      }
+    ],
+    "edges": [
+      {
+        "id": 3776,
+        "label": "syn",
+        "from": 3779,
+        "to": 3780
+      },
+      {
+        "id": 3780,
+        "label": "syn",
+        "from": 3781,
+        "to": 3782
+      }
+    ]
+  }
+}

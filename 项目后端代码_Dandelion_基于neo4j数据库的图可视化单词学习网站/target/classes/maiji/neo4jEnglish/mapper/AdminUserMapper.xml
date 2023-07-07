@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="maiji.neo4jEnglish.mapper.AdminUserMapper">
+    <!--  条件分页查询  -->
+    <select id="findUserByNameContaining" resultType="maiji.neo4jEnglish.pojo.Neo4jUser">
+        select id,username,permission,toefl,ielts,gre,create_time from Neo4jUser
+        <where>
+            <if test="name != null and name != ''">
+                username like concat('%',#{name},'%')
+            </if>
+            <if test="begin != null and end != null">
+                and create_time between #{begin} and #{end}
+            </if>
+        </where>
+        order by id asc
+    </select>
+
+    <!--更新用户信息-->
+    <update id="updateUser">
+        update Neo4jUser
+        <set>
+            <if test="username != null and username != ''">
+                username = #{username},
+            </if>
+            <if test="permission != null">
+                permission = #{permission},
+            </if>
+            <if test="toefl != null">
+                toefl = #{toefl},
+            </if>
+            <if test="ielts != null">
+                ielts = #{ielts},
+            </if>
+            <if test="gre != null">
+                gre = #{gre},
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+    <!--  批量删除用户  -->
+    <delete id="deleteUser">
+        delete from Neo4jUser where id in
+        <foreach collection="ids" item="id" open="(" close=")" separator=",">
+            #{id}
+        </foreach>
+    </delete>
+</mapper>
