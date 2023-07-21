@@ -24,7 +24,7 @@
    ![welcome_page](page_overview/page_graph.png)
 4. graph of CET4 Vocabulary
    ![welcome_page](page_overview/graph_whole.png)
-5. graph in expolre mode
+5. graph in explore mode
    ![welcome_page](page_overview/mode_explore1.png)
 6. manager
    ![welcome_page](page_overview/page_manager.png)
